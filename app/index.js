@@ -7,9 +7,9 @@ const Home = () => {
         <SafeAreaView>
             <Stack.Screen
                 options={{
-                    headerStyle: { backgroundColor: 'orange' },
+                    headerStyle: { backgroundColor: 'black' },
                     headerShadowVisible: false,
-
+                    
                 }}
             />
         </SafeAreaView>
