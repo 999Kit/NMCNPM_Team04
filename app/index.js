@@ -9,7 +9,7 @@ const Home = () => {
                 options={{
                     headerStyle: { backgroundColor: 'blue' },
                     headerShadowVisible: false,
-
+                    
                 }}
             />
         </SafeAreaView>
